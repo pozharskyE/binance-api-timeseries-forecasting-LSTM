@@ -24,4 +24,4 @@ For last {some number of steps} hours
 ### Prepare
 ### Predict
 Load model, predict, denormalize result
-### Plot and save as png file (plot_predicted.png)
+### Plot and save as png file (predict/plot_predicted.png)
